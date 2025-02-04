@@ -1,0 +1,28 @@
+.img-container img {
+    width: 269px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+.home-container {
+    background-color: #1e1e1e;
+    padding: 20px;
+}
+
+.card {
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+
+.title {
+    text-align: center;
+    color: #0303ef;
+    margin-bottom: 30px;
+}
+
+
