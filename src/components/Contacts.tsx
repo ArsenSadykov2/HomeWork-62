@@ -1,3 +1,4 @@
+import '../App.css';
 const Contacts = () => (
     <div className="contacts-container">
         <h1 className="title-contacts">Контакты Акатцуки</h1>
